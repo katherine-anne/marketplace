@@ -1,0 +1,152 @@
+[
+  {
+    "id": 0,
+    "title": "Hell University",
+    "price": 500,
+    "category": "Thriller",
+    "description": "Never let your curiosity drive you here",
+    "author": "KnightInBlack",
+    "seller": "Renz",
+    "postedDate": "2024-06-01T14:00:00Z"
+  },
+  {
+    "id": 1,
+    "title": "Altheria: School of Alchemy",
+    "price": 600,
+    "category": "Fantasy",
+    "description": "Jasmin must believe in magic to survive",
+    "author": "Penguin20",
+    "seller": "Jane",
+    "postedDate": "2024-06-02T13:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "The Four Bad Boys and Me",
+    "price": 500,
+    "category": "Romance",
+    "description": "Candice meets four bad boys at school",
+    "author": "Blue_Maiden",
+    "seller": "Jhenelle",
+    "postedDate": "2024-06-03T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Stay Awake Agatha",
+    "price": 800,
+    "category": "Drama",
+    "description": "Agatha struggles to stay awake daily",
+    "author": "Serialsleeper",
+    "seller": "Zurinee",
+    "postedDate": "2024-06-04T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "He's Into Her",
+    "price": 1000,
+    "category": "Romance",
+    "description": "Maxpein and Deib rivalry turns to love",
+    "author": "Yanalovesyouu",
+    "seller": "Kashlee",
+    "postedDate": "2024-06-05T09:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Diary ng Panget",
+    "price": 700,
+    "category": "Comedy",
+    "description": "A diary of love, friendship, and self-acceptance",
+    "author": "HaveYouSeenThisGirl",
+    "seller": "Paulo",
+    "postedDate": "2024-06-06T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "The Rain in España",
+    "price": 900,
+    "category": "Romance",
+    "description": "Luna and Kalix fall in law school stress",
+    "author": "4reuminct",
+    "seller": "Dani",
+    "postedDate": "2024-06-07T08:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "She's Dating the Gangster",
+    "price": 650,
+    "category": "Romance",
+    "description": "Athena pretends to date Kenji, feelings grow",
+    "author": "BiancaB",
+    "seller": "Amaya",
+    "postedDate": "2024-06-08T14:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "My Husband is a Mafia Boss",
+    "price": 1100,
+    "category": "Comedy",
+    "description": "Elena weds a mafia boss in danger",
+    "author": "DarkQuill",
+    "seller": "Xyrelle",
+    "postedDate": "2024-06-09T11:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "The Last Wizard of Arkania",
+    "price": 1000,
+    "category": "Fantasy",
+    "description": "A young wizard inherits ancient power",
+    "author": "AetherWrite",
+    "seller": "Benjo",
+    "postedDate": "2024-06-10T14:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Shadows of Veritas",
+    "price": 850,
+    "category": "Mystery",
+    "description": "Investigator uncovers town secrets",
+    "author": "NightCipher",
+    "seller": "Lara",
+    "postedDate": "2024-06-11T10:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Embers of Elyndor",
+    "price": 950,
+    "category": "Mystery",
+    "description": "A young warrior discovers his destiny",
+    "author": "MythWeaver",
+    "seller": "Carlos",
+    "postedDate": "2024-06-12T12:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Love Beyond Pages",
+    "price": 700,
+    "category": "Drama",
+    "description": "Writer and reader meet in a magical way",
+    "author": "HeartScript",
+    "seller": "Mika",
+    "postedDate": "2024-06-13T09:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "The Enchanted Academy",
+    "price": 880,
+    "category": "Fantasy",
+    "description": "Student discovers magic at academy",
+    "author": "ArcaneSoul",
+    "seller": "Jasper",
+    "postedDate": "2024-06-14T11:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Broken Vows",
+    "price": 780,
+    "category": "Drama",
+    "description": "A relationship struggles with secrets",
+    "author": "SoulWriter",
+    "seller": "Angela",
+    "postedDate": "2024-06-15T13:00:00Z"
+  }
+]
