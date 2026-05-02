@@ -10,6 +10,9 @@
     "start:dev": "npx nodemon server.js",
     "start:prod": "cross-env NODE_ENV=production npx nodemon server.js"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "dotenv": "^7.0.0",
